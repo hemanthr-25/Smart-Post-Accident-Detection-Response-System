@@ -12,10 +12,10 @@ const char* ssid = "Chotraju";
 const char* password = "rhemanth123";
 
 // Telegram BOT Token
-String BOTtoken = "7715229379:AAFr0CpIM_ioKFiUMqn4ByGXncGLW00mFWI";
+String BOTtoken = "*****************";
 
 // Array of chat IDs
-String CHAT_IDS[] = {"1527862279", "1728763056", "5497362560"}; 
+String CHAT_IDS[] = {"**********", "*******", "*******"}; 
 int numberOfChats = 3;
 
 // GPIO Pins
