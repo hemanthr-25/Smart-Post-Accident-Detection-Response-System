@@ -1,4 +1,5 @@
-#🚨 Smart Post-Accident Detection & Response System
+#🚨 Smart Post-Accident Detection & Response System(Auto SOS)
+
 
 This project was built as part of our 5th hackathon — and it's the one that helped us **secure our 4th win**.  
 The goal: to **automate emergency response after vehicle crashes**, especially in remote or low-traffic areas, using IoT and real-time decision logic.
