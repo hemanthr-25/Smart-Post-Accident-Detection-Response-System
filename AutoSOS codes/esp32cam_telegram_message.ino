@@ -8,8 +8,8 @@
 #include <ArduinoJson.h>
 
 // WiFi credentials
-const char* ssid = "Chotraju";
-const char* password = "rhemanth123";
+const char* ssid = "********";
+const char* password = "*******";
 
 // Telegram BOT Token
 String BOTtoken = "*****************";
