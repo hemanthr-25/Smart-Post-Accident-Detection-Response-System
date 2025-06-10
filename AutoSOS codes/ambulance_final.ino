@@ -15,12 +15,12 @@ const byte address[6] = "00001";
 const char* nrf_msg = "Ambulance";  // Const char array for NRF24
 
 // WiFi and MQTT Credentials
-const char* ssid = "Chotraju";
-const char* password = "rhemanth123";
-const char* mqtt_server = "cadfcd44d9104fc3a57a58ed5043a7f8.s1.eu.hivemq.cloud";
+const char* ssid = "******";
+const char* password = "********";
+const char* mqtt_server = "*****";
 const int mqtt_port = 8883;
-const char* mqtt_username = "rhemanth";
-const char* mqtt_password = "1Hivemqqt";
+const char* mqtt_username = "*******";
+const char* mqtt_password = "*******";
 
 const char* topic_book = "/book_ambulance";
 const char* topic_booked = "/ambulance_booked";
