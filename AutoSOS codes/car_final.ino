@@ -6,14 +6,14 @@
 #include <TinyGPS++.h>
 
 // Wi-Fi Credentials
-const char* ssid = "Chotraju";
-const char* password = "rhemanth123";
+const char* ssid = "******";
+const char* password = "********";
 
 // HiveMQ Broker Info
-const char* mqtt_server = "cadfcd44d9104fc3a57a58ed5043a7f8.s1.eu.hivemq.cloud";
+const char* mqtt_server = "*******";
 const int mqtt_port = 8883;
-const char* mqtt_username = "rhemanth";
-const char* mqtt_password = "1Hivemqqt";
+const char* mqtt_username = "*******";
+const char* mqtt_password = "********";
 
 // MQTT Topics
 const char* topic_crash = "/crash_detected";
@@ -21,8 +21,8 @@ const char* topic_confirm = "/accident_confirmed";
 const char* topic_2min = "/2mintrigger";
 
 // Telegram BOT Token and Chat IDs
-String BOTtoken = "7715229379:AAFr0CpIM_ioKFiUMqn4ByGXncGLW00mFWI";
-String CHAT_IDS[] = {"1527862279", "1728763056", "5931305208", "5497362560"};
+String BOTtoken = "*********";
+String CHAT_IDS[] = {"******", "*******", "******", "**********"};
 int numberOfChats = 4;
 
 // Pin Definitions
